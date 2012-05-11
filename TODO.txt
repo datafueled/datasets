@@ -1,0 +1,5 @@
+ * Implement <constraint> stuff.
+ * Implement validation.
+ * Implement type info per-column.
+ * Add support for guessing types based on the data within them.
+ * Hook up format / parse stuff.
